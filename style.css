@@ -1,0 +1,48 @@
+
+/* CSS BOX MODEL */
+/* h1{
+    padding: 30px;
+    margin: 20px; 
+    border: 10px solid black;
+    background-color: blueviolet;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+} */
+
+
+
+
+h2{
+    padding: 30px;
+}
+
+
+
+ /* CSS FLEXBOX */
+/* .container{
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    align-items: center;
+    height: 50vh;
+
+} */
+
+
+
+
+
+/* CSS GRID */
+
+ /* .grid-container{
+    display: grid;
+    grid-template-columns: 30% 40%;
+    grid-template-rows: 150px 100px;
+} */
+
+
+
+
+
+
+
